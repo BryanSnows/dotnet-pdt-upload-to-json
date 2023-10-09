@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCotLyftTKxUZvSKwShnILuIvtXrpog/R728tT+pdz5iPvqxLbZSqz6I+QrI51cdkCqrD0rAY1lPigLFrnFKlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan.pinto\\Desktop\\dwg\\dwg\\dwg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryan.pinto\\.nuget\\packages\\acadsharp\\1.5.0-alpha\\acadsharp.1.5.0-alpha.nupkg.sha512",
+    "C:\\Users\\bryan.pinto\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bryan.pinto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\bryan.pinto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\bryan.pinto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\bryan.pinto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

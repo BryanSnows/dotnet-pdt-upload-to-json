@@ -1,0 +1,862 @@
+{
+  "header": {
+    "versionString": "AC1024",
+    "version": 29,
+    "maintenanceVersion": 0,
+    "codePage": "ansi_1252",
+    "lastSavedBy": "ACadSharp",
+    "requiredVersions": 0,
+    "associatedDimensions": true,
+    "updateDimensionsWhileDragging": true,
+    "dimsav": false,
+    "measurementUnits": 0,
+    "polylineLineTypeGeneration": false,
+    "orthoMode": false,
+    "regenerationMode": true,
+    "fillMode": true,
+    "quickTextMode": false,
+    "paperSpaceLineTypeScaling": 1,
+    "limitCheckingOn": false,
+    "blipMode": false,
+    "userTimer": true,
+    "sketchPolylines": false,
+    "angularDirection": 0,
+    "showSplineControlPoints": false,
+    "mirrorText": false,
+    "worldView": true,
+    "showModelSpace": true,
+    "paperSpaceLimitsChecking": false,
+    "retainXRefDependentVisibilitySettings": true,
+    "displaySilhouetteCurves": false,
+    "createEllipseAsPolyline": false,
+    "proxyGraphics": true,
+    "spatialIndexMaxTreeDepth": 3020,
+    "linearUnitFormat": 2,
+    "linearUnitPrecision": 3,
+    "angularUnit": 0,
+    "angularUnitPrecision": 0,
+    "objectSnapMode": 0,
+    "attributeVisibility": 1,
+    "pointDisplayMode": 0,
+    "userShort1": 0,
+    "userShort2": 0,
+    "userShort3": 0,
+    "userShort4": 0,
+    "userShort5": 0,
+    "numberOfSplineSegments": 8,
+    "surfaceDensityU": 6,
+    "surfaceDensityV": 6,
+    "surfaceType": 6,
+    "surfaceMeshTabulationCount1": 6,
+    "surfaceMeshTabulationCount2": 6,
+    "splineType": 6,
+    "shadeEdge": 3,
+    "shadeDiffuseToAmbientPercentage": 70,
+    "unitMode": 0,
+    "maxViewportCount": 64,
+    "surfaceIsolineCount": 4,
+    "currentMultilineJustification": 0,
+    "textQuality": 50,
+    "lineTypeScale": 5.0,
+    "textHeightDefault": 3.734408934683813,
+    "textStyleName": "Standard",
+    "currentTextStyle": {
+      "objectType": 53,
+      "objectName": "STYLE",
+      "subclassMarker": "AcDbTextStyleTableRecord",
+      "flags": 0,
+      "filename": "arial.ttf",
+      "bigFontFilename": null,
+      "height": 0.0,
+      "width": 0.0,
+      "lastHeight": 0.0,
+      "obliqueAngle": 0.0,
+      "mirrorFlag": 0,
+      "trueType": 0,
+      "name": "Standard",
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "currentLayerName": "0",
+    "currentLineTypeName": "ByLayer",
+    "currentLineType": {
+      "objectType": 57,
+      "objectName": "LTYPE",
+      "subclassMarker": "AcDbLinetypeTableRecord",
+      "description": null,
+      "patternLen": 0.0,
+      "alignment": "A",
+      "segments": [],
+      "name": "ByLayer",
+      "flags": 0,
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "multilineStyleName": "Standard",
+    "traceWidthDefault": 1.0,
+    "sketchIncrement": 1.0,
+    "filletRadius": 0.0,
+    "thicknessDefault": 0.0,
+    "angleBase": 0.0,
+    "pointDisplaySize": 0.0,
+    "polylineWidthDefault": 0.0,
+    "userDouble1": 0.0,
+    "userDouble2": 0.0,
+    "userDouble3": 0.0,
+    "userDouble4": 0.0,
+    "userDouble5": 0.0,
+    "chamferDistance1": 10.0,
+    "chamferDistance2": 10.0,
+    "chamferLength": 20.0,
+    "chamferAngle": 0.0,
+    "facetResolution": 0.5,
+    "currentMultilineScale": 20.0,
+    "currentEntityLinetypeScale": 1.0,
+    "menuFileName": ".",
+    "handleSeed": 12838,
+    "createDateTime": "2009-07-10T03:17:47.862-04:00",
+    "universalCreateDateTime": "2023-10-09T03:13:58.2336318Z",
+    "updateDateTime": "2023-03-30T06:44:14.203-04:00",
+    "universalUpdateDateTime": "2023-10-09T03:13:58.2336319Z",
+    "totalEditingTime": "00:18:49.4490000",
+    "userElapsedTimeSpan": "102502.03:44:11.9530000",
+    "currentEntityColor": {
+      "isByLayer": false,
+      "isByBlock": true,
+      "index": 0,
+      "trueColor": -1,
+      "isTrueColor": false
+    },
+    "viewportDefaultViewScaleFactor": 0.0,
+    "paperSpaceInsertionBase": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceExtMin": {
+      "x": 1E+20,
+      "y": 1E+20,
+      "z": 1E+20
+    },
+    "paperSpaceExtMax": {
+      "x": -1E+20,
+      "y": -1E+20,
+      "z": -1E+20
+    },
+    "paperSpaceLimitsMin": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "paperSpaceLimitsMax": {
+      "x": 420.0,
+      "y": 297.0
+    },
+    "paperSpaceElevation": 0.0,
+    "paperSpaceBaseName": null,
+    "paperSpaceName": null,
+    "paperSpaceUcsOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceUcsXAxis": {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceUcsYAxis": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "paperSpaceOrthographicTopDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceOrthographicBottomDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceOrthographicLeftDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceOrthographicRightDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceOrthographicFrontDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "paperSpaceOrthographicBackDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceOrthographicTopDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceOrthographicBottomDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceOrthographicLeftDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceOrthographicRightDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceOrthographicFrontDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceOrthographicBackDOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceInsertionBase": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceExtMin": {
+      "x": -274.0324657701483,
+      "y": -149.24281467936004,
+      "z": 0.0
+    },
+    "modelSpaceExtMax": {
+      "x": 1591.7639981157786,
+      "y": 3481.7889120849127,
+      "z": 1.3552527156068805E-19
+    },
+    "modelSpaceLimitsMin": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "modelSpaceLimitsMax": {
+      "x": 420.0,
+      "y": 297.0
+    },
+    "ucsBaseName": null,
+    "ucsName": null,
+    "elevation": 0.0,
+    "modelSpaceOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceXAxis": {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelSpaceYAxis": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "dimensionBlockName": "",
+    "arrowBlockName": "",
+    "dimensionBlockNameFirst": null,
+    "dimensionBlockNameSecond": null,
+    "stackedTextAlignment": 1,
+    "stackedTextSizePercentage": 70,
+    "hyperLinkBase": "",
+    "currentEntityLineWeight": 29,
+    "endCaps": 0,
+    "joinStyle": 0,
+    "displayLineWeight": false,
+    "xEdit": false,
+    "extendedNames": false,
+    "plotStyleMode": 8192,
+    "loadOLEObject": false,
+    "insUnits": 4,
+    "currentEntityPlotStyle": 0,
+    "fingerPrintGuid": "{EC6BB858-51AA-46EC-B484-6C9CC7AB3E2E}",
+    "versionGuid": "{FAEB1C32-E019-11D5-929B-00C0DF256EC4}",
+    "entitySortingFlags": 127,
+    "indexCreationFlags": 0,
+    "hideText": 1,
+    "externalReferenceClippingBoundaryType": 0,
+    "dimensionAssociativity": 2,
+    "haloGapPercentage": 0,
+    "obscuredColor": {
+      "isByLayer": false,
+      "isByBlock": false,
+      "index": -1,
+      "trueColor": 1073742081,
+      "isTrueColor": true
+    },
+    "interfereColor": {
+      "isByLayer": false,
+      "isByBlock": true,
+      "index": 0,
+      "trueColor": -1,
+      "isTrueColor": false
+    },
+    "obscuredType": 0,
+    "intersectionDisplay": 0,
+    "projectName": "",
+    "cameraDisplayObjects": false,
+    "stepsPerSecond": 2.0,
+    "stepSize": 6.0,
+    "dw3DPrecision": 2.0,
+    "lensLength": 50.0,
+    "cameraHeight": 0.0,
+    "solidsRetainHistory": "\u0001",
+    "showSolidsHistory": "\u0001",
+    "sweptSolidWidth": 5.0,
+    "sweptSolidHeight": 80.0,
+    "draftAngleFirstCrossSection": 1.5707963267948966,
+    "draftAngleSecondCrossSection": 1.5707963267948966,
+    "draftMagnitudeFirstCrossSection": 0.0,
+    "draftMagnitudeSecondCrossSection": 0.0,
+    "solidLoftedShape": 7,
+    "loftedObjectNormals": "\u0001",
+    "latitude": 37.795,
+    "longitude": -122.394,
+    "northDirection": 0.0,
+    "timeZone": -8000,
+    "displayLightGlyphs": "\u0001",
+    "dwgUnderlayFramesVisibility": "\u0002",
+    "dgnUnderlayFramesVisibility": "\u0002",
+    "shadowMode": 0,
+    "shadowPlaneLocation": 0.0,
+    "styleSheetName": "",
+    "dimensionTextStyleName": "Standard",
+    "dimensionStyleOverridesName": "Standard",
+    "dimensionAngularDimensionDecimalPlaces": 0,
+    "dimensionDecimalPlaces": 2,
+    "dimensionToleranceDecimalPlaces": 2,
+    "dimensionAlternateUnitDimensioning": false,
+    "dimensionAlternateUnitFormat": 2,
+    "dimensionAlternateUnitScaleFactor": 0.03937007874016,
+    "dimensionExtensionLineOffset": 1.0,
+    "dimensionScaleFactor": 2.0,
+    "dimensionAlternateUnitDecimalPlaces": 3,
+    "dimensionAlternateUnitToleranceDecimalPlaces": 3,
+    "dimensionAngularUnit": 1,
+    "dimensionFractionFormat": 0,
+    "dimensionLinearUnitFormat": 2,
+    "dimensionDecimalSeparator": ".",
+    "dimensionTextMovement": 0,
+    "dimensionTextHorizontalAlignment": 0,
+    "dimensionSuppressFirstDimensionLine": false,
+    "dimensionSuppressSecondDimensionLine": false,
+    "dimensionGenerateTolerances": false,
+    "dimensionToleranceAlignment": 0,
+    "dimensionZeroHandling": 8,
+    "dimensionToleranceZeroHandling": 8,
+    "dimensionFit": "\u0000",
+    "dimensionAlternateUnitZeroHandling": 0,
+    "dimensionAlternateUnitToleranceZeroHandling": 0,
+    "dimensionCursorUpdate": false,
+    "dimensionDimensionTextArrowFit": 3,
+    "dimensionAlternateUnitRounding": 0.0,
+    "dimensionAlternateDimensioningSuffix": "",
+    "dimensionArrowSize": 3.0,
+    "dimensionAngularZeroHandling": 0,
+    "dimensionArcLengthSymbolPosition": 0,
+    "dimensionSeparateArrowBlocks": false,
+    "dimensionCenterMarkSize": 0.0,
+    "dimensionTickSize": 0.0,
+    "dimensionLineColor": {
+      "isByLayer": false,
+      "isByBlock": true,
+      "index": 0,
+      "trueColor": -1,
+      "isTrueColor": false
+    },
+    "dimensionExtensionLineColor": {
+      "isByLayer": false,
+      "isByBlock": true,
+      "index": 0,
+      "trueColor": -1,
+      "isTrueColor": false
+    },
+    "dimensionTextColor": {
+      "isByLayer": false,
+      "isByBlock": true,
+      "index": 0,
+      "trueColor": -1,
+      "isTrueColor": false
+    },
+    "dimensionLineExtension": 0.0,
+    "dimensionLineIncrement": 1.0,
+    "dimensionExtensionLineExtension": 1.0,
+    "dimensionIsExtensionLineLengthFixed": false,
+    "dimensionFixedExtensionLineLength": 1.0,
+    "dimensionJoggedRadiusDimensionTransverseSegmentAngle": 0.7853981633974483,
+    "dimensionTextBackgroundFillMode": 0,
+    "dimensionTextBackgroundColor": {
+      "isByLayer": false,
+      "isByBlock": true,
+      "index": 0,
+      "trueColor": -1,
+      "isTrueColor": false
+    },
+    "dimensionLineGap": 1.5,
+    "dimensionLinearScaleFactor": 1.0,
+    "dimensionTextVerticalPosition": 0.0,
+    "dimensionLineWeight": -1,
+    "extensionLineWeight": -2,
+    "dimensionPostFix": "",
+    "dimensionRounding": 0.0,
+    "dimensionSuppressFirstExtensionLine": false,
+    "dimensionSuppressSecondExtensionLine": false,
+    "dimensionSuppressOutsideExtensions": false,
+    "dimensionTextVerticalAlignment": 1,
+    "dimensionUnit": 0,
+    "dimensionToleranceScaleFactor": 0.666666,
+    "dimensionTextInsideHorizontal": false,
+    "dimensionTextInsideExtensions": false,
+    "dimensionMinusTolerance": 0.0,
+    "dimensionTextOutsideExtensions": true,
+    "dimensionTextOutsideHorizontal": false,
+    "dimensionLimitsGeneration": false,
+    "dimensionPlusTolerance": 0.0,
+    "dimensionTextHeight": 3.0,
+    "dimensionTextDirection": 0,
+    "dimensionAltMzf": 100.0,
+    "dimensionAltMzs": "",
+    "dimensionMzf": 100.0,
+    "dimensionMzs": "",
+    "dimensionLineType": "ByBlock",
+    "dimensionTex1": "ByBlock",
+    "dimensionTex2": "ByBlock",
+    "currentLayer": {
+      "objectType": 51,
+      "objectName": "LAYER",
+      "subclassMarker": "AcDbLayerTableRecord",
+      "flags": 0,
+      "color": {
+        "isByLayer": false,
+        "isByBlock": true,
+        "index": 0,
+        "trueColor": -1,
+        "isTrueColor": false
+      },
+      "lineType": {
+        "objectType": 57,
+        "objectName": "LTYPE",
+        "subclassMarker": "AcDbLinetypeTableRecord",
+        "description": null,
+        "patternLen": 0.0,
+        "alignment": "A",
+        "segments": [],
+        "name": "Continuous",
+        "flags": 0,
+        "handle": 0,
+        "owner": null,
+        "xDictionary": null,
+        "reactors": {},
+        "extendedData": {},
+        "document": null
+      },
+      "plotFlag": false,
+      "lineWeight": -3,
+      "plotStyleName": 0,
+      "material": null,
+      "isOn": false,
+      "name": "0",
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "dimensionTextStyle": {
+      "objectType": 53,
+      "objectName": "STYLE",
+      "subclassMarker": "AcDbTextStyleTableRecord",
+      "flags": 0,
+      "filename": "arial.ttf",
+      "bigFontFilename": null,
+      "height": 0.0,
+      "width": 0.0,
+      "lastHeight": 0.0,
+      "obliqueAngle": 0.0,
+      "mirrorFlag": 0,
+      "trueType": 0,
+      "name": "Standard",
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "dimensionStyleOverrides": {
+      "objectType": 69,
+      "objectName": "DIMSTYLE",
+      "subclassMarker": "AcDbDimStyleTableRecord",
+      "postFix": "",
+      "alternateDimensioningSuffix": "",
+      "generateTolerances": false,
+      "limitsGeneration": false,
+      "textInsideHorizontal": false,
+      "textOutsideHorizontal": false,
+      "suppressFirstExtensionLine": false,
+      "suppressSecondExtensionLine": false,
+      "textVerticalAlignment": 1,
+      "zeroHandling": 8,
+      "alternateUnitDimensioning": false,
+      "alternateUnitDecimalPlaces": 3,
+      "textOutsideExtensions": true,
+      "separateArrowBlocks": false,
+      "textInsideExtensions": false,
+      "suppressOutsideExtensions": false,
+      "angularDimensionDecimalPlaces": 0,
+      "textHorizontalAlignment": 0,
+      "suppressFirstDimensionLine": false,
+      "suppressSecondDimensionLine": false,
+      "toleranceAlignment": 0,
+      "toleranceZeroHandling": 8,
+      "alternateUnitZeroHandling": 0,
+      "dimensionFit": "\u0000",
+      "cursorUpdate": false,
+      "alternateUnitToleranceZeroHandling": 0,
+      "dimensionUnit": 0,
+      "angularUnit": 1,
+      "decimalPlaces": 2,
+      "toleranceDecimalPlaces": 2,
+      "alternateUnitFormat": 2,
+      "alternateUnitToleranceDecimalPlaces": 3,
+      "scaleFactor": 2.0,
+      "arrowSize": 3.0,
+      "extensionLineOffset": 1.0,
+      "dimensionLineIncrement": 1.0,
+      "extensionLineExtension": 1.0,
+      "rounding": 0.0,
+      "dimensionLineExtension": 0.0,
+      "plusTolerance": 0.0,
+      "minusTolerance": 0.0,
+      "fixedExtensionLineLength": 1.0,
+      "joggedRadiusDimensionTransverseSegmentAngle": 0.7853981633974483,
+      "textBackgroundFillMode": 0,
+      "textBackgroundColor": {
+        "isByLayer": false,
+        "isByBlock": true,
+        "index": 0,
+        "trueColor": -1,
+        "isTrueColor": false
+      },
+      "angularZeroHandling": 0,
+      "arcLengthSymbolPosition": 0,
+      "textHeight": 3.0,
+      "centerMarkSize": 0.0,
+      "tickSize": 0.0,
+      "alternateUnitScaleFactor": 0.03937007874016,
+      "linearScaleFactor": 1.0,
+      "textVerticalPosition": 0.0,
+      "toleranceScaleFactor": 0.666666,
+      "dimensionLineGap": 1.5,
+      "alternateUnitRounding": 0.0,
+      "dimensionLineColor": {
+        "isByLayer": false,
+        "isByBlock": true,
+        "index": 0,
+        "trueColor": -1,
+        "isTrueColor": false
+      },
+      "extensionLineColor": {
+        "isByLayer": false,
+        "isByBlock": true,
+        "index": 0,
+        "trueColor": -1,
+        "isTrueColor": false
+      },
+      "textColor": {
+        "isByLayer": false,
+        "isByBlock": true,
+        "index": 0,
+        "trueColor": -1,
+        "isTrueColor": false
+      },
+      "fractionFormat": 0,
+      "linearUnitFormat": 2,
+      "decimalSeparator": ".",
+      "textMovement": 0,
+      "isExtensionLineLengthFixed": false,
+      "textDirection": 0,
+      "altMzf": 100.0,
+      "mzf": 100.0,
+      "dimensionLineWeight": -1,
+      "extensionLineWeight": -2,
+      "altMzs": "",
+      "mzs": "",
+      "dimensionTextArrowFit": 3,
+      "style": {
+        "objectType": 53,
+        "objectName": "STYLE",
+        "subclassMarker": "AcDbTextStyleTableRecord",
+        "flags": 0,
+        "filename": "arial.ttf",
+        "bigFontFilename": null,
+        "height": 0.0,
+        "width": 0.0,
+        "lastHeight": 0.0,
+        "obliqueAngle": 0.0,
+        "mirrorFlag": 0,
+        "trueType": 0,
+        "name": "Standard",
+        "handle": 0,
+        "owner": null,
+        "xDictionary": null,
+        "reactors": {},
+        "extendedData": {},
+        "document": null
+      },
+      "leaderArrow": null,
+      "arrowBlock": null,
+      "dimArrow1": null,
+      "dimArrow2": null,
+      "name": "Standard",
+      "flags": 0,
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "modelSpaceUcs": {
+      "objectType": 63,
+      "objectName": "UCS",
+      "subclassMarker": "AcDbUCSTableRecord",
+      "origin": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "xAxis": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yAxis": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "orthographicType": 0,
+      "orthographicViewType": 0,
+      "elevation": 0.0,
+      "name": null,
+      "flags": 0,
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "modelSpaceUcsBase": {
+      "objectType": 63,
+      "objectName": "UCS",
+      "subclassMarker": "AcDbUCSTableRecord",
+      "origin": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "xAxis": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yAxis": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "orthographicType": 0,
+      "orthographicViewType": 0,
+      "elevation": 0.0,
+      "name": null,
+      "flags": 0,
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "paperSpaceUcs": {
+      "objectType": 63,
+      "objectName": "UCS",
+      "subclassMarker": "AcDbUCSTableRecord",
+      "origin": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "xAxis": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yAxis": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "orthographicType": 0,
+      "orthographicViewType": 0,
+      "elevation": 0.0,
+      "name": null,
+      "flags": 0,
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "paperSpaceUcsBase": {
+      "objectType": 63,
+      "objectName": "UCS",
+      "subclassMarker": "AcDbUCSTableRecord",
+      "origin": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "xAxis": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yAxis": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "orthographicType": 0,
+      "orthographicViewType": 0,
+      "elevation": 0.0,
+      "name": null,
+      "flags": 0,
+      "handle": 0,
+      "owner": null,
+      "xDictionary": null,
+      "reactors": {},
+      "extendedData": {},
+      "document": null
+    },
+    "document": null
+  },
+  "blocks": [
+    {
+      "name": "*Paper_Space0"
+    },
+    {
+      "name": "A3"
+    },
+    {
+      "name": "Acrésc. de Desenho"
+    },
+    {
+      "name": "Modificações1"
+    },
+    {
+      "name": "Acrésc. de Desenho1"
+    },
+    {
+      "name": "Carimbo Original"
+    },
+    {
+      "name": "InsCirculo"
+    },
+    {
+      "name": "Carimbo Cópia Controlada"
+    },
+    {
+      "name": "Carimbo Original PRETO"
+    },
+    {
+      "name": "Modificações1 - AJUSTAR"
+    },
+    {
+      "name": "*D70"
+    },
+    {
+      "name": "*D71"
+    },
+    {
+      "name": "*D72"
+    },
+    {
+      "name": "*D73"
+    },
+    {
+      "name": "A4"
+    },
+    {
+      "name": "Carimbo Tubulação"
+    },
+    {
+      "name": "1"
+    },
+    {
+      "name": "11"
+    },
+    {
+      "name": "*D114"
+    },
+    {
+      "name": "*D115"
+    },
+    {
+      "name": "100"
+    },
+    {
+      "name": "Carimbo Protótipo"
+    },
+    {
+      "name": "*D121"
+    },
+    {
+      "name": "*D122"
+    },
+    {
+      "name": "*D123"
+    },
+    {
+      "name": "*D124"
+    },
+    {
+      "name": "Bandeira de Revisão"
+    },
+    {
+      "name": "*Model_Space"
+    },
+    {
+      "name": "*Paper_Space"
+    }
+  ]
+}
